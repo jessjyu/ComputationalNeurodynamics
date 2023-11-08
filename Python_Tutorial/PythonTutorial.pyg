@@ -1,0 +1,3 @@
+    source /<PATHTOVENV>/bin/activate
+    python EulerDemo.py
+    spyder
